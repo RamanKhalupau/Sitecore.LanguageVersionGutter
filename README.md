@@ -1,1 +1,1 @@
-# Sitecore.LanguageVersionGutter
+# Sitecore Language Version Gutter
